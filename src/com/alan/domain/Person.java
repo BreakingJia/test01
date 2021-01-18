@@ -2,5 +2,7 @@ package com.alan.domain;
 
 public class Person {
 
-    private String id;
+    private Integer id;
+    private String name;
+    private Integer age;
 }
